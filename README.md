@@ -19,8 +19,8 @@ A Streamlit web app to **predict your annual health insurance cost** based on pe
 
 <!-- Add screenshots here -->
 
-![App Screenshot 1](path/to/screenshot1.png)  
-![App Screenshot 2](path/to/screenshot2.png)  
+![App Screenshot 1](screenshots/Screenshot%202025-06-10%20174821.png)  
+![App Screenshot 2](screenshots/Screenshot%202025-06-10%20174844.png)
 
 ---
 
